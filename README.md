@@ -1,6 +1,6 @@
 ## Hi there - I'm Arjun!
 
-I work on machine learning, autonomous systems, and web intelligence! [More about me on my website.](arjunmulchandani.com)
+I work on machine learning, autonomous systems, and web intelligence! [More about me on my website.](https://arjunmulchandani.com)
 
 <!--
 **FloopyFlop/FloopyFlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
